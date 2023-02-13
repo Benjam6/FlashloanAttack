@@ -1,0 +1,22 @@
+{
+  "name": "flashloanattack",
+  "version": "1.0.0",
+  "description": "This is a simple example for flash loan attack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1anyway/FlashloanAttack.git"
+  },
+  "author": "Joe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1anyway/FlashloanAttack/issues"
+  },
+  "homepage": "https://github.com/1anyway/FlashloanAttack#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.7"
+  }
+}
